@@ -10,7 +10,7 @@ h2 {
 
 ul {
     display: flex;
-    flex-flow: column-reverse nowrap;
+    flex-flow: column-reverse wrap;
     margin: 0;
     padding: 0;
 }
